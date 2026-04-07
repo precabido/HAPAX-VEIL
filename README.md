@@ -3,8 +3,10 @@
 Self-hosted platform for sharing encrypted messages and attachments through self-destructing links.
 
 Production reference: `https://veil.hapax.online`
+<img width="1536" height="1024" alt="logo_hapax_veil_2" src="https://github.com/user-attachments/assets/21188403-dfc9-4d09-afcb-d7de37f19531" />
 
-## Current status
+## Current status!
+
 
 This repository packages the current MVP runtime as a public, portable version suitable for self-hosting and GitHub publication.
 
