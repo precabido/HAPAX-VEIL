@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+apps/*/node_modules/
+.pnpm-store/
+
+# build output
+.next/
+apps/*/.next/
+dist/
+apps/*/dist/
+coverage/
+*.tsbuildinfo
+
+# local runtime state
+storage/
+logs/
+backups/
+secrets/
+
+# env files
+.env
+.env.*
+!.env.example
+
+# OS / editor junk
+__MACOSX/
+.DS_Store
+.vscode/
+.idea/
+
+# misc
+*.log
+*.pid
